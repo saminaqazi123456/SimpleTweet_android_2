@@ -1,4 +1,4 @@
-# Project 2 - *SimpleTweet_android_2*
+# Project 2 (Unit 4) - *SimpleTweet_android_2*
 
 **Name of your app** is an android app that allows a user to view his Twitter timeline and post a new tweet. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
